@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "login": "alice123",
+        "password": "secret",
+        "email": null,
+        "address": null
+    },
+    {
+        "id": 1,
+        "name": "Alice",
+        "login": "alice123",
+        "password": "secret",
+        "email": null,
+        "address": null
+    },
+    {
+        "id": 1,
+        "name": "Alice",
+        "login": "alice",
+        "password": "pass123",
+        "email": "alice@example.com",
+        "address": null
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "login": "bob",
+        "password": "bobpass",
+        "email": null,
+        "address": "City"
+    },
+    {
+        "id": 1,
+        "name": "Alice",
+        "login": "alice",
+        "password": "pass123",
+        "email": "alice@example.com",
+        "address": null
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "login": "bob",
+        "password": "bobpass",
+        "email": null,
+        "address": "City"
+    }
+]

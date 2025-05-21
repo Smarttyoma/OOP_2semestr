@@ -1,0 +1,1 @@
+{"a": {"type": "print", "char": "a"}, "b": {"type": "print", "char": "b"}, "c": {"type": "print", "char": "c"}, "d": {"type": "print", "char": "d"}, "ctrl++": {"type": "volume_up", "step": 20}, "ctrl+-": {"type": "volume_down", "step": 20}, "ctrl+p": {"type": "media_player"}}
